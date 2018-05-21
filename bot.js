@@ -241,4 +241,4 @@ function play(guild, song) {
 	serverQueue.textChannel.send(`بدء تشغيل: **${song.title}**`);
 }
 
-client.login('توكنك');
+client.login('NDQ3OTIxMzIzMTEzNTc4NTA2.DeOs2g.Rvm3cJiI0mlc3TJMTUjPi2uUog8');
